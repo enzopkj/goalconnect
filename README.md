@@ -11,8 +11,8 @@ A premium, responsive, and identifiable authentication system featuring email/pa
     *   **ソーシャルログイン**: GoogleおよびLINEとのリアルタイムOAuth 2.0統合。
 *   **Internationalization (i18n)**: One-click English/Japanese toggle.
     *   **国際化 (i18n)**: ワンクリックで英語/日本語を切り替え。
-*   **Theming**: Easily switch between 3 presets (Dark Blue, Goal Connect Green, 16-Bit Retro).
-    *   **テーマ**: 3つのプリセット（ダークブルー、Goal Connectグリーン、16ビットレトロ）を簡単に切り替え可能。
+*   **Theming**: Easily switch between 3 presets (Dark Blue,   Green, 16-Bit Retro).
+    *   **テーマ**: 3つのプリセット（ダークブルー、 グリーン、16ビットレトロ）を簡単に切り替え可能。
 *   **Responsive**: Optimized for Desktop and Mobile.
     *   **レスポンシブ**: デスクトップおよびモバイル向けに最適化。
 
