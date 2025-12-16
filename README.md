@@ -50,5 +50,5 @@ Open `frontend/src/styles/theme.css` and uncomment the block you want to use.
 `frontend/src/styles/theme.css` を開き、使用したいブロックのコメントを解除してください。
 
 *   **Dark Blue**: Original premium look.
-*   **Goal Connect**: Fresh green, corporate look.
+*   **Green**: Fresh green, corporate look.
 *   **16-Bit Retro**: Pixelated, high-contrast gaming look.
