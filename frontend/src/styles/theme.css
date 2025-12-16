@@ -1,0 +1,107 @@
+/* ==========================================================================
+   THEME CONFIGURATION
+   Uncomment the block you wish to use. Ensure only one block is active.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   THEME 1: Dark Blue (Original) - ACTIVE
+   -------------------------------------------------------------------------- */
+:root {
+  --primary-color: #6366f1;
+  --primary-hover: #4f46e5;
+  --secondary-color: #ec4899;
+
+  --bg-gradient: linear-gradient(135deg, #0f172a 0%, #1e1b4b 100%);
+
+  --glass-bg: rgba(255, 255, 255, 0.05);
+  --glass-border: rgba(255, 255, 255, 0.1);
+
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+
+  --input-bg: rgba(15, 23, 42, 0.6);
+  --input-border: #334155;
+
+  --error-color: #ef4444;
+
+  --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+
+  --radius-lg: 16px;
+  --radius-md: 8px;
+  --radius-sm: 4px;
+
+  --transition-speed: 0.3s;
+  --ease-spring: cubic-bezier(0.4, 0.0, 0.2, 1);
+
+  --icon-filter: invert(1);
+}
+
+/* --------------------------------------------------------------------------
+   THEME 2: Goal Connect (Corporate Green)
+   -------------------------------------------------------------------------- */
+/*
+:root {
+  --primary-color: #8fc31f;
+  --primary-hover: #7ab015;
+  --secondary-color: #00a4e4;
+  
+  --bg-gradient: linear-gradient(135deg, #f0fdf4 0%, #e6fffa 100%);
+  
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.5);
+  
+  --text-main: #1e293b;
+  --text-muted: #64748b;
+  
+  --input-bg: rgba(255, 255, 255, 0.8);
+  --input-border: #cbd5e1;
+  
+  --error-color: #ef4444;
+  
+  --font-family: 'Helvetica Neue', Arial, sans-serif;
+  
+  --radius-lg: 12px;
+  --radius-md: 6px;
+  --radius-sm: 4px;
+  
+  --transition-speed: 0.3s;
+  --ease-spring: cubic-bezier(0.4, 0.0, 0.2, 1);
+  
+  --icon-filter: none;
+}
+*/
+
+/* --------------------------------------------------------------------------
+   THEME 3: 16-Bit Retro Mode
+   -------------------------------------------------------------------------- */
+/*
+:root {
+  --primary-color: #ff0055;
+  --primary-hover: #cc0044;
+  --secondary-color: #00e5ff;
+  
+  --bg-gradient: linear-gradient(to bottom, #2b002b 0%, #000000 100%);
+  
+  --glass-bg: #1a1a1a;
+  --glass-border: #ff0055;
+  
+  --text-main: #ffffff;
+  --text-muted: #a0a0a0;
+  
+  --input-bg: #000000;
+  --input-border: #ffffff;
+  
+  --error-color: #ff3333;
+  
+  --font-family: 'Courier New', Courier, monospace;
+  
+  --radius-lg: 0px;
+  --radius-md: 0px;
+  --radius-sm: 0px;
+  
+  --transition-speed: 0.1s;
+  --ease-spring: steps(4);
+  
+  --icon-filter: invert(1);
+}
+*/

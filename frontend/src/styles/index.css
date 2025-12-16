@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-family);
+    background: var(--bg-gradient);
+    color: var(--text-main);
+    color: var(--text-main);
+    min-height: 100vh;
+    /* For background shapes if added */
+}
+
+input,
+button {
+    font-family: inherit;
+}
